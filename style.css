@@ -1,0 +1,9 @@
+.jumbotron {
+    background: linear-gradient(rgb(119, 119, 184),rgb(30, 30, 173), rgb(23, 23, 160));
+    color: white;
+}
+
+.formulario {
+    margin-top: 5%;
+  }
+
